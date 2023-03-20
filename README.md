@@ -1,5 +1,0 @@
-# Midjourney-prompt-generator
-The Art Prompt Generator has a simple form that collects user inputs about various aspects of the midjourney prompt, such as objects, lighting, style, color, medium, size, and aspect ratio. The form is followed by a "Generate Prompt" button that, when clicked, generates a prompt based on the user's inputs.
-This HTML code defines the structure and layout of an Art Prompt Generator web page. It has a simple form that collects user inputs about various aspects of the art prompt, such as objects, lighting, style, color, medium, size, and aspect ratio. The form is followed by a "Generate Prompt" button that, when clicked, generates a prompt based on the user's inputs.
-The code also includes CSS styles to style the page elements, such as the container, result container, and button container. The styles ensure proper alignment and spacing of the elements, as well as setting font sizes and other visual properties.
-Overall, this code creates a simple web page that allows users to generate art prompts based on their input preferences.
